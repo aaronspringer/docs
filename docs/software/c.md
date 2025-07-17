@@ -57,6 +57,6 @@ Assuming your code is saved in a file called `hello_world.c`, compile it using `
 mpicc -o hello_world hello_world.c
 ```
 
-This will produce an executable named `hello_world`. You can use this executable to [schedule a job](../scheduling.md#example-submission-scripts), and run it across multiple nodes.
+This will produce an executable named `hello_world`. You can use this executable to [schedule a job](../cluster_guide/running_jobs/example_jobs.md), and run it across multiple nodes.
 
 ---
